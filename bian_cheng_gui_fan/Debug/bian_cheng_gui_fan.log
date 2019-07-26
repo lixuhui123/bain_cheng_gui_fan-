@@ -1,0 +1,6 @@
+﻿  struct_practice.c
+f:\bite learn\bian_cheng_gui_fan\bian_cheng_gui_fan\struct_practice.c(5): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+f:\bite learn\bian_cheng_gui_fan\bian_cheng_gui_fan\struct_practice.c(5): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+f:\bite learn\bian_cheng_gui_fan\bian_cheng_gui_fan\struct_practice.c(5): error C2059: 语法错误:“)”
+f:\bite learn\bian_cheng_gui_fan\bian_cheng_gui_fan\struct_practice.c(6): error C2054: 在“s”之后应输入“(”
+f:\bite learn\bian_cheng_gui_fan\bian_cheng_gui_fan\struct_practice.c(21): warning C4013: “print”未定义；假设外部返回 int
